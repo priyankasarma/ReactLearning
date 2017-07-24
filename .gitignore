@@ -2,7 +2,6 @@
 
 # IntelliJ project files
 .idea
-*.iml
 out
 gen
 
@@ -11,3 +10,10 @@ bundle.js
 npm-debug.log
 .DS_Store
 
+/bookDetail/.idea/
+/bookDetail/node_modules/
+
+/videoSearchReact/.idea
+/videoSearchReact/node_modules
+
+.idea/
